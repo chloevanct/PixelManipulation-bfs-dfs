@@ -23,8 +23,8 @@
 ## QuarterFill Picker: 
 #### Determines the color that should be used given an x and y coordinate using a quartered image pattern. That is, using a private reference image, scaled each dimension by half and tile the smaller image in a 2 x 2 grid over the original dimensions of the image, and returned the pixel at the appropriate coordinate from the tiled image. The value of each pixel in the scaled image will be a bilinear interpolatiom of a 2x2 pixel region from the original image, with each of the H/S/L/A channels processed individually. 
 
-### Quarter Fill - Breadth First Search Output
+### QuarterFill - Breadth First Search Output
 ![](https://github.com/chloevanct/pixel-manipulation-bfs-dfs/blob/main/pa2-student/images-soln/ex-bfsquarter.gif)
 
-### Quarter Fill - Depth First Search Output
+### QuarterFill - Depth First Search Output
 ![](https://github.com/chloevanct/pixel-manipulation-bfs-dfs/blob/main/pa2-student/images-soln/ex-dfsquarter.gif)
