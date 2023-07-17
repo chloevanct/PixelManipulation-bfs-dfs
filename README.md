@@ -1,26 +1,26 @@
-# pixel-manipulation-bfs-dfs
+# Depth First Search and Breadth First Search Filling Algorithms
 
-#ImageTile Fill - Breadth First Search Example
+## ImageTile Fill - Breadth First Search Example
 ![](https://github.com/chloevanct/pixel-manipulation-bfs-dfs/blob/main/pa2-student/images-soln/ex-bfsimagetile.gif)
 
-#ImageTile Fill - Depth First Search Example
+## ImageTile Fill - Depth First Search Example
 ![](https://github.com/chloevanct/pixel-manipulation-bfs-dfs/blob/main/pa2-student/images-soln/ex-dfsimagetile.gif)
 
-#Negative Fill - Breadth First Search Example
+## Negative Fill - Breadth First Search Example
 ![](https://github.com/chloevanct/pixel-manipulation-bfs-dfs/blob/main/pa2-student/images-soln/ex-bfsnegativeborder.gif)
 
-#Negative Fill - Depth First Search Example
+## Negative Fill - Depth First Search Example
 ![](https://github.com/chloevanct/pixel-manipulation-bfs-dfs/blob/main/pa2-student/images-soln/ex-dfsnegativeborder.gif)
 
-#Quarter Fill - Breadth First Search Example
+## Quarter Fill - Breadth First Search Example
 ![](https://github.com/chloevanct/pixel-manipulation-bfs-dfs/blob/main/pa2-student/images-soln/ex-bfsquarter.gif)
 
-#Quarter Fill - Depth First Search Example
+## Quarter Fill - Depth First Search Example
 ![](https://github.com/chloevanct/pixel-manipulation-bfs-dfs/blob/main/pa2-student/images-soln/ex-dfsquarter.gif)
 
-#Solid Fill - Breadth First Search Example
+## Solid Fill - Breadth First Search Example
 ![](https://github.com/chloevanct/pixel-manipulation-bfs-dfs/blob/main/pa2-student/images-soln/ex-bfssolid.gif)
 
-#Solid Fill - Depth First Search Example
+## Solid Fill - Depth First Search Example
 ![](https://github.com/chloevanct/pixel-manipulation-bfs-dfs/blob/main/pa2-student/images-soln/ex-bfssolid.gif)
 
