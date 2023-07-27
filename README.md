@@ -1,6 +1,6 @@
 # Depth First Search and Breadth First Search Image Filling Algorithms with Pixel Manipulation
 
-#### Utilized a queue data structure to store elements for breadth-first-search filling algorithm, and a stack data structure for a depht-first-search filling algorithm. Several functors below to determine image fill behaviour.
+#### Utilized a queue data structure to store elements for breadth-first-search filling algorithm, and a stack data structure for a depth-first-search filling algorithm. Several functors below to determine image fill behaviour.
 
 ## ImageTileColorPicker:
 #### Determines the HSLAPixel to be used given an x and y coordinate and tiling one image over the dimensions of the target image, aligned to (0, 0).
